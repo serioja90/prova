@@ -14,4 +14,8 @@ class Prova
   def ciao
     "Ciao, #{@nome}!"
   end
+
+  def miao
+    "Miao, #{@nome}!"
+  end
 end
