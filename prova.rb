@@ -10,4 +10,8 @@ class Prova
   def hello
     "Hello, #{@nome}!"
   end
+
+  def ciao
+    "Ciao, #{@nome}!"
+  end
 end
