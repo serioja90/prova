@@ -4,5 +4,4 @@ mondo!
 
 ho sistemato il bug!
 
-
-questa volta lo so!
+questa volta lo so!; non so
