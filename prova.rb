@@ -4,7 +4,7 @@ class Prova
   end
 
   def nome
-    @nome
+    @nome.upcase
   end
 
   def hello
