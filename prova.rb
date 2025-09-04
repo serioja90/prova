@@ -6,4 +6,8 @@ class Prova
   def nome
     @nome
   end
+
+  def hello
+    "Hello, #{@nome}!"
+  end
 end
