@@ -4,6 +4,6 @@ class Prova
   end
 
   def nome
-    @nome
+    @nome.upcase
   end
 end
